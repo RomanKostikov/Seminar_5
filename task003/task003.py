@@ -1,5 +1,7 @@
 # 38. Напишите программу, удаляющую из текста все слова, содержащие "абв".
 """Doc."""
+import os
+os.system('cls')
 
 
 def del_some_words(my_text):
