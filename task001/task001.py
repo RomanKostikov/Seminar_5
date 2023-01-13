@@ -3,9 +3,6 @@
 # Найдите это число.
 
 # решение без enumerate
-"""Doc."""
-import os
-os.system('cls')
 
 
 def get_data_from_file(nums):
